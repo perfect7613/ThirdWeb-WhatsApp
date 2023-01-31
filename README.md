@@ -2,7 +2,7 @@
 
 ![WhatsApp Clone](https://i.ibb.co/MGVJqT8/Clean-Shot-2022-10-03-at-20-19-53-2x.jpg)
 
-This is a simple example of how to build a WhatsApp-like Web3 application with Next.js and Solidity.
+This is a simple example of a WhatsApp-like Web3 application with Next.js and Solidity.
 
 ---
 
