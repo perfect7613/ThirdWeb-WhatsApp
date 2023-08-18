@@ -6,7 +6,7 @@ This is a simple example of a WhatsApp-like Web3 application with Next.js and So
 
 ---
 
-### Tech used in this project:
+### TechStack used in this project:
 
 - MetaMask Login
 - Thirdweb Deploy
